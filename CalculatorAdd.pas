@@ -7,4 +7,6 @@ begin
   write('Напишите второе число: ');
   readln(num2);
   write('Ответ: ', num1+num2);
+
+  readln();
 end.
